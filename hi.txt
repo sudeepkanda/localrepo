@@ -1,0 +1,2 @@
+i am data using cat
+cat is my command for EOF
